@@ -39,3 +39,9 @@ a:hover {
   display: flex;
   justify-content: space-evenly;
 }
+
+img {
+  height: auto;
+  width: 50%;
+  padding-left: 7rem;
+}
